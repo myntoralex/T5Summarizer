@@ -1,0 +1,4 @@
+jtype: T5Summarizer
+metas:
+  py_modules:
+    - executor.py
